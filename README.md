@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanmay017
+- 👋 Hi, I’m Tanmay Chandra
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on projects related to React
